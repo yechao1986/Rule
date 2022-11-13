@@ -1,6 +1,5 @@
 payload:
   # > DIRECT
-  - DOMAIN,nas.yechao1986.top
   - DOMAIN-SUFFIX,yechao1986.top
   - DOMAIN-SUFFIX,yechao1986.com
   - DOMAIN-SUFFIX,myip.ipip.net
