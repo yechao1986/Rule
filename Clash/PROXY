@@ -1,0 +1,9 @@
+payload:
+  # > PROXY
+  - DOMAIN-KEYWORD,weibo
+  - DOMAIN-SUFFIX,y2meta.com
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,google.cn
+  - DOMAIN-KEYWORD,maying
+  - DOMAIN-KEYWORD,xyz
+  - DOMAIN-KEYWORD,xn--
