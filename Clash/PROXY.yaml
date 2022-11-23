@@ -5,10 +5,11 @@ payload:
   - DOMAIN-SUFFIX,y2meta.com
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,google.cn
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,maying
   - DOMAIN-KEYWORD,xyz
   - DOMAIN-KEYWORD,xn--
-  - DOMAIN-SUFFIX,gstatic.com
   # > XXX
   - DOMAIN-KEYWORD,hentai
   - DOMAIN-KEYWORD,jav
