@@ -1,6 +1,7 @@
 payload:
   # > PROXY
   - DOMAIN-KEYWORD,weibo
+  - DOMAIN-SUFFIX,apkpure.com
   - DOMAIN-SUFFIX,y2meta.com
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,google.cn
