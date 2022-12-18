@@ -3,6 +3,7 @@ payload:
   - DOMAIN-KEYWORD,weibo
   - DOMAIN-SUFFIX,apkpure.com
   - DOMAIN-SUFFIX,y2meta.com
+  - DOMAIN-SUFFIX,google.com
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,google.cn
   - DOMAIN-SUFFIX,gstatic.com
