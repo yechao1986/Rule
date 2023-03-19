@@ -11,4 +11,4 @@ payload:
   - DOMAIN-SUFFIX,mathpool.cn
   - DOMAIN,fonts.gstatic.com
   - DOMAIN-SUFFIX,hoyoverse.com
-  - DOMAIN-KEYWORD,blizzard
+# - DOMAIN-KEYWORD,blizzard
