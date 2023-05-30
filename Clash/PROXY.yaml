@@ -11,6 +11,8 @@ payload:
   - DOMAIN-KEYWORD,maying
   - DOMAIN-KEYWORD,xyz
   - DOMAIN-KEYWORD,xn--
+  - DOMAIN-SUFFIX,metacubex.one
+  - DOMAIN-SUFFIX,raindrop.io
   # > XXX
   - DOMAIN-KEYWORD,hentai
   - DOMAIN-KEYWORD,dmm
