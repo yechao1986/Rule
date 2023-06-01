@@ -1,7 +1,5 @@
 payload:
   # > PROXY
-  #Commander One
-  - DOMAIN-SUFFIX,ftp-mac.com
   - DOMAIN-KEYWORD,weibo
   - DOMAIN-SUFFIX,apkpure.com
   - DOMAIN-SUFFIX,y2meta.com
@@ -15,6 +13,8 @@ payload:
   - DOMAIN-KEYWORD,xn--
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,raindrop.io
+  #Commander One
+  - DOMAIN-SUFFIX,ftp-mac.com
   # > XXX
   - DOMAIN-KEYWORD,hentai
   - DOMAIN-KEYWORD,dmm
