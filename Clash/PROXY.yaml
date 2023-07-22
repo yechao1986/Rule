@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,google.cn
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-KEYWORD,github
+  - DOMAIN-KEYWORD,bing
   - DOMAIN-KEYWORD,maying
   - DOMAIN-KEYWORD,xsus
   - DOMAIN-KEYWORD,xyz
