@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,raindrop.io
   - DOMAIN-SUFFIX,xbarapp.com
   - DOMAIN-SUFFIX,fanmingming.com
+  - DOMAIN-SUFFIX,monica.im
   # > Commander One
   - DOMAIN-SUFFIX,ftp-mac.com
   # > XXX
