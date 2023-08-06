@@ -12,4 +12,5 @@ payload:
   - DOMAIN,fonts.gstatic.com
   - DOMAIN-SUFFIX,hoyoverse.com
   - DOMAIN-SUFFIX,cn.bing.com
+  - DOMAIN-SUFFIX,colamanhua.com
 # - DOMAIN-KEYWORD,blizzard
