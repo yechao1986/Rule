@@ -1,6 +1,6 @@
 payload:
   # > DIRECT
-  - IP-CIDR,::/0
+  - IP-CIDR6,::/0
   - DOMAIN-SUFFIX,yechao1986.top
   - DOMAIN-SUFFIX,yechao1986.com
   - DOMAIN-SUFFIX,myip.ipip.net
