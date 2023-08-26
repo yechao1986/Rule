@@ -20,6 +20,7 @@ payload:
   - DOMAIN-SUFFIX,monica.im
   - DOMAIN-SUFFIX,lemonsqueezy.com
   - DOMAIN-SUFFIX,sider.ai
+  - DOMAIN-SUFFIX,exview.ml
   # > Commander One
   - DOMAIN-SUFFIX,ftp-mac.com
   # > XXX
