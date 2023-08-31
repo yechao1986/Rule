@@ -1,6 +1,5 @@
 payload:
   # > PROXY
-  - IP-CIDR,10.168.2.254/32
   - DOMAIN-KEYWORD,weibo
   - DOMAIN-SUFFIX,apkpure.com
   - DOMAIN-SUFFIX,y2meta.com
