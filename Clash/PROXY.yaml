@@ -568,6 +568,8 @@ payload:
   - DOMAIN-SUFFIX,zhuishudashi.net
   # > Comic End
   # > XXX
+  - DOMAIN-SUFFIX,jinjier.art
+  - DOMAIN-KEYWORD,fuliba
   - DOMAIN-KEYWORD,hentai
   - DOMAIN-KEYWORD,dmm
   - DOMAIN-KEYWORD,r18
