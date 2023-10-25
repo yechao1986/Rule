@@ -21,6 +21,8 @@ payload:
   - DOMAIN-SUFFIX,sider.ai
   - DOMAIN-SUFFIX,exview.ml
   - DOMAIN-SUFFIX,betterdisplay.pro
+  - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,paddle.com
   - DOMAIN-SUFFIX,apphousekitchen.com
   # > Commander One
   - DOMAIN-SUFFIX,ftp-mac.com
