@@ -11,6 +11,7 @@ payload:
   - DOMAIN-KEYWORD,xsus
   - DOMAIN-KEYWORD,xyz
   - DOMAIN-KEYWORD,xn--
+  - DOMAIN-KEYWORD,macupdater
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,raindrop.io
   - DOMAIN-SUFFIX,xbarapp.com
