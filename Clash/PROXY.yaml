@@ -24,6 +24,7 @@ payload:
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,paddle.com
   - DOMAIN-SUFFIX,apphousekitchen.com
+  - DOMAIN-SUFFIX,mozilla.net
   # > Commander One
   - DOMAIN-SUFFIX,ftp-mac.com
   # > XXX
