@@ -25,6 +25,7 @@ payload:
   - DOMAIN-SUFFIX,paddle.com
   - DOMAIN-SUFFIX,apphousekitchen.com
   - DOMAIN-SUFFIX,mozilla.net
+  - DOMAIN-SUFFIX,stash.ws
   # > Commander One
   - DOMAIN-SUFFIX,ftp-mac.com
   # > XXX
