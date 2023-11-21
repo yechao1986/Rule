@@ -33,6 +33,7 @@ payload:
   - DOMAIN-SUFFIX,obsproject.com
   - DOMAIN-SUFFIX,sublimetext.com
   - DOMAIN-SUFFIX,staticz.com
+  - DOMAIN-SUFFIX,staticz.net
   # > Commander One
   - DOMAIN-SUFFIX,ftp-mac.com
   # > XXX
