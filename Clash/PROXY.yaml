@@ -30,6 +30,7 @@ payload:
   - DOMAIN-SUFFIX,arc.net
   - DOMAIN-SUFFIX,obsproject.com
   - DOMAIN-SUFFIX,sublimetext.com
+  - DOMAIN-SUFFIX,staticz.com
   # > Commander One
   - DOMAIN-SUFFIX,ftp-mac.com
   # > XXX
