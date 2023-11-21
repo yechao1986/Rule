@@ -29,6 +29,7 @@ payload:
   - DOMAIN-SUFFIX,stash.ws
   - DOMAIN-SUFFIX,arc.net
   - DOMAIN-SUFFIX,obsproject.com
+  - DOMAIN-SUFFIX,sublimetext.com
   # > Commander One
   - DOMAIN-SUFFIX,ftp-mac.com
   # > XXX
