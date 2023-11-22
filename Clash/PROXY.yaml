@@ -11,20 +11,21 @@ payload:
   - DOMAIN-KEYWORD,xsus
   - DOMAIN-KEYWORD,xyz
   - DOMAIN-KEYWORD,xn--
-  - DOMAIN-KEYWORD,macupdater
+  - DOMAIN-SUFFIX,fanmingming.com
+  - DOMAIN-SUFFIX,lemonsqueezy.com
   - DOMAIN-SUFFIX,metacubex.one
+  - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,paddle.com
+  # > Software
+  - DOMAIN-KEYWORD,macupdater
+  - DOMAIN-SUFFIX,macupdater-backend.com
   - DOMAIN-SUFFIX,raindrop.io
   - DOMAIN-SUFFIX,xbarapp.com
-  - DOMAIN-SUFFIX,fanmingming.com
   - DOMAIN-SUFFIX,monica.im
-  - DOMAIN-SUFFIX,lemonsqueezy.com
   - DOMAIN-SUFFIX,sider.ai
   - DOMAIN-SUFFIX,exview.ml
   - DOMAIN-SUFFIX,betterdisplay.pro
-  - DOMAIN-SUFFIX,sentry.io
-  - DOMAIN-SUFFIX,paddle.com
   - DOMAIN-SUFFIX,apphousekitchen.com
-  - DOMAIN-SUFFIX,macupdater-backend.com
   - DOMAIN-SUFFIX,notion.so
   - DOMAIN-SUFFIX,notion-static.com
   - DOMAIN-SUFFIX,mozilla.net
