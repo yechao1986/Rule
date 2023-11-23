@@ -11,6 +11,7 @@ payload:
   - DOMAIN-KEYWORD,xsus
   - DOMAIN-KEYWORD,xyz
   - DOMAIN-KEYWORD,xn--
+  - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,fanmingming.com
   - DOMAIN-SUFFIX,lemonsqueezy.com
   - DOMAIN-SUFFIX,metacubex.one
