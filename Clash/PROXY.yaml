@@ -37,6 +37,9 @@ payload:
   - DOMAIN-SUFFIX,staticz.net
   # > Commander One
   - DOMAIN-SUFFIX,ftp-mac.com
+  # > VPN
+  - DOMAIN-SUFFIX,nameless13.com
+  - DOMAIN-SUFFIX,ssr.sh
   # > XXX
   - DOMAIN-SUFFIX,jinjier.art
   - DOMAIN-KEYWORD,fuliba
