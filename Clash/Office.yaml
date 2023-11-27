@@ -1,5 +1,6 @@
 payload:
   # > Office
+  - IP-CIDR,59.204.228.43/32
   - IP-CIDR,10.10.228.59/32
   - IP-CIDR,10.168.2.0/24
   - IP-CIDR,10.100.0.0/16
