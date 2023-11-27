@@ -1,5 +1,6 @@
 payload:
   # > Office
+  - DOMAIN-SUFFIX,cegn.cn
   - IP-CIDR,59.204.228.0/24
   - IP-CIDR,59.225.22.0/24
   - IP-CIDR,10.10.228.0/24
