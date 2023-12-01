@@ -38,6 +38,7 @@ payload:
   - DOMAIN-SUFFIX,sublimetext.com
   - DOMAIN-SUFFIX,staticz.com
   - DOMAIN-SUFFIX,staticz.net
+  - DOMAIN-SUFFIX,titanium-software.fr
   # > Commander One
   - DOMAIN-SUFFIX,ftp-mac.com
   # > VPN
