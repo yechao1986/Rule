@@ -12,6 +12,7 @@ payload:
   - DOMAIN-KEYWORD,miaona
   - DOMAIN-KEYWORD,xyz
   - DOMAIN-KEYWORD,xn--
+  - DOMAIN-SUFFIX,wikipedia.org
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,fanmingming.com
   - DOMAIN-SUFFIX,lemonsqueezy.com
