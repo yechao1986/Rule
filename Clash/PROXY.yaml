@@ -7,6 +7,8 @@ payload:
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,bing
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,microsoftapp.net
   - DOMAIN-KEYWORD,maying
   - DOMAIN-KEYWORD,xsus
   - DOMAIN-KEYWORD,miaona
