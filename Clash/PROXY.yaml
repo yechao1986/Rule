@@ -43,6 +43,8 @@ payload:
   - DOMAIN-SUFFIX,staticz.net
   - DOMAIN-SUFFIX,titanium-software.fr
   - DOMAIN-SUFFIX,gpt4all.io
+  # > Comic
+  - DOMAIN-SUFFIX,dogemanga.com
   # > Commander One
   - DOMAIN-SUFFIX,ftp-mac.com
   # > VPN
