@@ -44,6 +44,7 @@ payload:
   - DOMAIN-SUFFIX,staticz.net
   - DOMAIN-SUFFIX,titanium-software.fr
   - DOMAIN-SUFFIX,gpt4all.io
+  - DOMAIN-SUFFIX,inoreader.com
   # > Comic
   - DOMAIN-SUFFIX,dogemanga.com
   # > Commander One
