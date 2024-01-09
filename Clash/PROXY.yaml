@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,paddle.com
+  - DOMAIN-SUFFIX,yckceo.com
   # > Software
   - DOMAIN-KEYWORD,macupdater
   - DOMAIN-SUFFIX,macupdater-backend.com
