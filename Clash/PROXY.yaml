@@ -45,8 +45,59 @@ payload:
   - DOMAIN-SUFFIX,titanium-software.fr
   - DOMAIN-SUFFIX,gpt4all.io
   - DOMAIN-SUFFIX,inoreader.com
-  # > Comic
+  # > AC
+  - DOMAIN-SUFFIX,18comic-cool.art
+  - DOMAIN-SUFFIX,2mzx.net
+  - DOMAIN-SUFFIX,35mh.com
+  - DOMAIN-SUFFIX,369manhua.com
+  - DOMAIN-SUFFIX,4un.net
+  - DOMAIN-SUFFIX,55dmh.com
+  - DOMAIN-SUFFIX,686mh.com
+  - DOMAIN-SUFFIX,97mhw.com
+  - DOMAIN-SUFFIX,99mh1.com
+  - DOMAIN-SUFFIX,bakamh.com
+  - DOMAIN-SUFFIX,bikabika.com
+  - DOMAIN-SUFFIX,boylove1.mobi
+  - DOMAIN-SUFFIX,bq64.cc
+  - DOMAIN-SUFFIX,bx117.com
+  - DOMAIN-SUFFIX,cqhijy.com
+  - DOMAIN-SUFFIX,darpou.com
+  - DOMAIN-SUFFIX,dingdangmh.com
+  - DOMAIN-SUFFIX,dmhua8.com
+  - DOMAIN-SUFFIX,dmzx.com
   - DOMAIN-SUFFIX,dogemanga.com
+  - DOMAIN-SUFFIX,dushimh.com
+  - DOMAIN-SUFFIX,gougou3.top
+  - DOMAIN-SUFFIX,grmanhua.com
+  - DOMAIN-SUFFIX,guagua456.com
+  - DOMAIN-SUFFIX,guofengmh.com
+  - DOMAIN-SUFFIX,hanman.cyou
+  - DOMAIN-SUFFIX,hanmanhot.com
+  - DOMAIN-SUFFIX,hcs68.com
+  - DOMAIN-SUFFIX,hi191.com
+  - DOMAIN-SUFFIX,komiic.com
+  - DOMAIN-SUFFIX,krmanhua.com
+  - DOMAIN-SUFFIX,linovelib.com
+  - DOMAIN-SUFFIX,llkmh.com
+  - DOMAIN-SUFFIX,mangatoro.com
+  - DOMAIN-SUFFIX,manhuaba123.com
+  - DOMAIN-SUFFIX,manhuadian.com
+  - DOMAIN-SUFFIX,mhw1.com
+  - DOMAIN-SUFFIX,nnhanman.net
+  - DOMAIN-SUFFIX,quarkmanhua.com
+  - DOMAIN-SUFFIX,rawdevart.com
+  - DOMAIN-SUFFIX,rr8.us
+  - DOMAIN-SUFFIX,shenmh.top
+  - DOMAIN-SUFFIX,suixw.com
+  - DOMAIN-SUFFIX,toptoon.net
+  - DOMAIN-SUFFIX,w13k.com
+  - DOMAIN-SUFFIX,wnixk.com
+  - DOMAIN-SUFFIX,wulawei.com
+  - DOMAIN-SUFFIX,x18mh.com
+  - DOMAIN-SUFFIX,xiamh.com
+  - DOMAIN-SUFFIX,xiushiba.com
+  - DOMAIN-SUFFIX,xmanhua.com
+  - DOMAIN-SUFFIX,yimmh.com
   # > Commander One
   - DOMAIN-SUFFIX,ftp-mac.com
   # > VPN
