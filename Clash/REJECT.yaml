@@ -2,4 +2,4 @@ payload:
   # > ADKill
   - DOMAIN-KEYWORD,adtng
   # > REJECT
-  #- DOMAIN-SUFFIX,csi.gstatic.com
+# - DOMAIN-SUFFIX,csi.gstatic.com
