@@ -24,6 +24,7 @@ payload:
   - DOMAIN-SUFFIX,paddle.com
   - DOMAIN-SUFFIX,yckceo.com
   # > Software
+  - DOMAIN-SUFFIX,stash.ws
   - DOMAIN-KEYWORD,macupdater
   - DOMAIN-SUFFIX,macupdater-backend.com
   - DOMAIN-SUFFIX,raindrop.io
