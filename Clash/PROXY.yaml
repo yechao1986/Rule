@@ -23,6 +23,7 @@ payload:
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,paddle.com
   - DOMAIN-SUFFIX,yckceo.com
+  - DOMAIN-SUFFIX,whatshub.top
   # > Software
   - DOMAIN-SUFFIX,stash.ws
   - DOMAIN-KEYWORD,macupdater
