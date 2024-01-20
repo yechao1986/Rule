@@ -15,4 +15,7 @@ payload:
   - DOMAIN-SUFFIX,cn.bing.com
   - DOMAIN-SUFFIX,colamanhua.com
   - DOMAIN-SUFFIX,iqiyi.com
+  - DOMAIN-SUFFIX,youku.com
+  - DOMAIN-SUFFIX,mgtv.com
+  - DOMAIN-SUFFIX,qq.com
 # - DOMAIN-KEYWORD,blizzard
