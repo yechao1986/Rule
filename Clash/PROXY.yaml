@@ -23,9 +23,9 @@ payload:
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,paddle.com
   - DOMAIN-SUFFIX,yckceo.com
+  # > 覆写更新地址
   - DOMAIN-SUFFIX,whatshub.top
   # > Software
-  - DOMAIN-SUFFIX,stash.ws
   - DOMAIN-KEYWORD,macupdater
   - DOMAIN-SUFFIX,macupdater-backend.com
   - DOMAIN-SUFFIX,raindrop.io
