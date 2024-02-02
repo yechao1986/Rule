@@ -23,6 +23,7 @@ payload:
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,paddle.com
   - DOMAIN-SUFFIX,yckceo.com
+  - DOMAIN-SUFFIX,sms-activate.org
   # > 覆写更新地址
   - DOMAIN-SUFFIX,whatshub.top
   # > Software
