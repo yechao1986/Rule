@@ -28,27 +28,29 @@ payload:
   - DOMAIN-SUFFIX,whatshub.top
   # > Software
   - DOMAIN-KEYWORD,macupdater
-  - DOMAIN-SUFFIX,nektony.com
-  - DOMAIN-SUFFIX,macupdater-backend.com
-  - DOMAIN-SUFFIX,raindrop.io
-  - DOMAIN-SUFFIX,xbarapp.com
-  - DOMAIN-SUFFIX,monica.im
-  - DOMAIN-SUFFIX,sider.ai
-  - DOMAIN-SUFFIX,exview.ml
-  - DOMAIN-SUFFIX,betterdisplay.pro
   - DOMAIN-SUFFIX,apphousekitchen.com
-  - DOMAIN-SUFFIX,notion.so
-  - DOMAIN-SUFFIX,notion-static.com
-  - DOMAIN-SUFFIX,mozilla.net
-  - DOMAIN-SUFFIX,stash.ws
   - DOMAIN-SUFFIX,arc.net
-  - DOMAIN-SUFFIX,obsproject.com
-  - DOMAIN-SUFFIX,sublimetext.com
-  - DOMAIN-SUFFIX,staticz.com
-  - DOMAIN-SUFFIX,staticz.net
-  - DOMAIN-SUFFIX,titanium-software.fr
+  - DOMAIN-SUFFIX,betterdisplay.pro
+  - DOMAIN-SUFFIX,diffusionbee.com
+  - DOMAIN-SUFFIX,exview.ml
   - DOMAIN-SUFFIX,gpt4all.io
   - DOMAIN-SUFFIX,inoreader.com
+  - DOMAIN-SUFFIX,macupdater-backend.com
+  - DOMAIN-SUFFIX,monica.im
+  - DOMAIN-SUFFIX,mozilla.net
+  - DOMAIN-SUFFIX,nektony.com
+  - DOMAIN-SUFFIX,notion-static.com
+  - DOMAIN-SUFFIX,notion.so
+  - DOMAIN-SUFFIX,obsproject.com
+  - DOMAIN-SUFFIX,raindrop.io
+  - DOMAIN-SUFFIX,sider.ai
+  - DOMAIN-SUFFIX,stash.ws
+  - DOMAIN-SUFFIX,staticz.com
+  - DOMAIN-SUFFIX,staticz.net
+  - DOMAIN-SUFFIX,sublimetext.com
+  - DOMAIN-SUFFIX,thebrowser.company
+  - DOMAIN-SUFFIX,titanium-software.fr
+  - DOMAIN-SUFFIX,xbarapp.com
   # > AC
   - DOMAIN-SUFFIX,18comic-cool.art
   - DOMAIN-SUFFIX,2mzx.net
