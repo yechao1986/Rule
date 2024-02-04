@@ -28,6 +28,7 @@ payload:
   - DOMAIN-SUFFIX,whatshub.top
   # > Software
   - DOMAIN-KEYWORD,macupdater
+  - DOMAIN-SUFFIX,nektony.com
   - DOMAIN-SUFFIX,macupdater-backend.com
   - DOMAIN-SUFFIX,raindrop.io
   - DOMAIN-SUFFIX,xbarapp.com
