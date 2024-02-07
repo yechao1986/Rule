@@ -27,6 +27,8 @@ payload:
   - DOMAIN-SUFFIX,yckceo.com
   # > 覆写更新地址
   - DOMAIN-SUFFIX,whatshub.top
+  # > IP信息更新地址
+  - DOMAIN-SUFFIX,ip-api.com
   # > Software
   - DOMAIN-KEYWORD,macupdater
   - DOMAIN-SUFFIX,apphousekitchen.com
