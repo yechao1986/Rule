@@ -26,6 +26,7 @@ payload:
   - DOMAIN-SUFFIX,y2meta.com
   - DOMAIN-SUFFIX,yckceo.com
   # > Pixiv
+  - DOMAIN-SUFFIX,pixiv.net
   - DOMAIN-SUFFIX,pximg.net
   # > 覆写更新地址
   - DOMAIN-SUFFIX,whatshub.top
