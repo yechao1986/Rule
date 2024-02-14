@@ -42,6 +42,7 @@ payload:
   - DOMAIN-SUFFIX,firefox.com
   - DOMAIN-SUFFIX,gpt4all.io
   - DOMAIN-SUFFIX,inoreader.com
+  - DOMAIN-SUFFIX,line.naver.jp
   - DOMAIN-SUFFIX,macupdater-backend.com
   - DOMAIN-SUFFIX,monica.im
   - DOMAIN-SUFFIX,mozilla.net
