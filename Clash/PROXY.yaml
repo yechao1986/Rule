@@ -5,6 +5,7 @@ payload:
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,maying
   - DOMAIN-KEYWORD,miaona
+  - DOMAIN-KEYWORD,reddit
   - DOMAIN-KEYWORD,steam
   - DOMAIN-KEYWORD,weibo
   - DOMAIN-KEYWORD,xsus
@@ -19,7 +20,6 @@ payload:
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,microsoftapp.net
   - DOMAIN-SUFFIX,paddle.com
-  - DOMAIN-SUFFIX,reddit.com
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,sms-activate.org
   - DOMAIN-SUFFIX,v2ex.com
