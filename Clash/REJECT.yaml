@@ -1,5 +1,7 @@
 payload:
   # > ADKill
   - DOMAIN-KEYWORD,adtng
+  # > Google
+  - DOMAIN-SUFFIX,app-measurement.com
   # > REJECT
-# - DOMAIN-SUFFIX,csi.gstatic.com
+  # - DOMAIN-SUFFIX,csi.gstatic.com
