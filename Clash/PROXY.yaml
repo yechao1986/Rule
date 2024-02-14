@@ -5,7 +5,6 @@ payload:
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,maying
   - DOMAIN-KEYWORD,miaona
-  - DOMAIN-KEYWORD,reddit
   - DOMAIN-KEYWORD,steam
   - DOMAIN-KEYWORD,weibo
   - DOMAIN-KEYWORD,xsus
@@ -29,6 +28,9 @@ payload:
   # > Pixiv
   - DOMAIN-KEYWORD,pixiv
   - DOMAIN-SUFFIX,pximg.net
+  # > Reddit
+  - DOMAIN-KEYWORD,reddit
+  - DOMAIN-SUFFIX,redd.it
   # > 覆写更新地址
   - DOMAIN-SUFFIX,whatshub.top
   # > IP信息更新地址
