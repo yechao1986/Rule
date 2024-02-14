@@ -19,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,microsoftapp.net
   - DOMAIN-SUFFIX,paddle.com
+  - DOMAIN-SUFFIX,reddit.com
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,sms-activate.org
   - DOMAIN-SUFFIX,v2ex.com
