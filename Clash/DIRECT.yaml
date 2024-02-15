@@ -20,3 +20,7 @@ payload:
   - DOMAIN-SUFFIX,qq.com
   - DOMAIN-SUFFIX,mi.com
 # - DOMAIN-KEYWORD,blizzard
+  # > 米哈游
+  - DOMAIN-SUFFIX,mihoyo.com
+  - DOMAIN-SUFFIX,miyoushe.com
+  - DOMAIN-SUFFIX,yuanshen.com
