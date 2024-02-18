@@ -5,6 +5,8 @@ payload:
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,maying
   - DOMAIN-KEYWORD,miaona
+  - DOMAIN-KEYWORD,rhinoshield
+  - DOMAIN-KEYWORD,shopify
   - DOMAIN-KEYWORD,steam
   - DOMAIN-KEYWORD,weibo
   - DOMAIN-KEYWORD,xsus
@@ -13,6 +15,7 @@ payload:
   - DOMAIN-SUFFIX,apkpure.com
   - DOMAIN-SUFFIX,chaojizhibo.net
   - DOMAIN-SUFFIX,fanmingming.com
+  - DOMAIN-SUFFIX,fontawesome.com
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,lemonsqueezy.com
@@ -22,7 +25,6 @@ payload:
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,microsoftapp.net
   - DOMAIN-SUFFIX,paddle.com
-  - DOMAIN-SUFFIX,rhinoshield.tw
   - DOMAIN-SUFFIX,rjcxb.com
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,sms-activate.org
