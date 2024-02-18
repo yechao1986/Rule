@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,microsoftapp.net
   - DOMAIN-SUFFIX,paddle.com
+  - DOMAIN-SUFFIX,rhinoshield.tw
   - DOMAIN-SUFFIX,rjcxb.com
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,sms-activate.org
