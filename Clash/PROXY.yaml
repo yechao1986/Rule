@@ -33,7 +33,6 @@ payload:
   - DOMAIN-SUFFIX,wikipedia.org
   - DOMAIN-SUFFIX,y2meta.com
   - DOMAIN-SUFFIX,yckceo.com
-  - DOMAIN,fonts.gstatic.com
   # > Pixiv
   - DOMAIN-KEYWORD,pixiv
   - DOMAIN-SUFFIX,pximg.net
