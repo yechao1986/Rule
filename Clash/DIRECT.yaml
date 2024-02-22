@@ -1,23 +1,23 @@
 payload:
   # > DIRECT
   - IP-CIDR6,::/0
-  - DOMAIN-SUFFIX,yechao1986.top
-  - DOMAIN-SUFFIX,yechao1986.com
-  - DOMAIN-SUFFIX,myip.ipip.net
-  - DOMAIN-SUFFIX,miwifi.com
-  - DOMAIN-SUFFIX,gitv.tv
-  - DOMAIN-SUFFIX,adoceans.com
-  - DOMAIN-SUFFIX,kuyun.com
   - DOMAIN-SUFFIX,adanxing.com
-  - DOMAIN-SUFFIX,mathpool.cn
-  - DOMAIN-SUFFIX,hoyoverse.com
-  - DOMAIN-SUFFIX,cn.bing.com
+  - DOMAIN-SUFFIX,adoceans.com
   - DOMAIN-SUFFIX,colamanhua.com
+  - DOMAIN-SUFFIX,gitv.tv
+  - DOMAIN-SUFFIX,hoyoverse.com
   - DOMAIN-SUFFIX,iqiyi.com
-  - DOMAIN-SUFFIX,youku.com
+  - DOMAIN-SUFFIX,kuyun.com
+  - DOMAIN-SUFFIX,mathpool.cn
   - DOMAIN-SUFFIX,mgtv.com
-  - DOMAIN-SUFFIX,qq.com
   - DOMAIN-SUFFIX,mi.com
+  - DOMAIN-SUFFIX,miwifi.com
+  - DOMAIN-SUFFIX,myip.ipip.net
+  - DOMAIN-SUFFIX,qq.com
+  - DOMAIN-SUFFIX,yechao1986.com
+  - DOMAIN-SUFFIX,yechao1986.top
+  - DOMAIN-SUFFIX,youku.com
+  - DOMAIN,cn.bing.com
 # - DOMAIN-KEYWORD,blizzard
   # > 米哈游
   - DOMAIN-SUFFIX,mihoyo.com
