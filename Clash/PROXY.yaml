@@ -16,8 +16,8 @@ payload:
   - DOMAIN-SUFFIX,chaojizhibo.net
   - DOMAIN-SUFFIX,fanmingming.com
   - DOMAIN-SUFFIX,fontawesome.com
-  - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,lemonsqueezy.com
   - DOMAIN-SUFFIX,masktt.com
   - DOMAIN-SUFFIX,mega.co.nz
