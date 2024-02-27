@@ -35,6 +35,8 @@ payload:
   - DOMAIN-SUFFIX,wikipedia.org
   - DOMAIN-SUFFIX,y2meta.com
   - DOMAIN-SUFFIX,yckceo.com
+  # > YouTube
+  - DOMAIN-SUFFIX,g.co
   # > Pixiv
   - DOMAIN-KEYWORD,pixiv
   - DOMAIN-SUFFIX,pximg.net
