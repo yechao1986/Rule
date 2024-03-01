@@ -73,6 +73,7 @@ payload:
   - DOMAIN-SUFFIX,sublimetext.com
   - DOMAIN-SUFFIX,thebrowser.company
   - DOMAIN-SUFFIX,titanium-software.fr
+  - DOMAIN-SUFFIX,vmware.com
   - DOMAIN-SUFFIX,xbarapp.com
   # > AC
   - DOMAIN-SUFFIX,18comic-cool.art
