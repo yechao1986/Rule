@@ -31,6 +31,7 @@ payload:
   - DOMAIN-SUFFIX,rjcxb.com
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,sms-activate.org
+  - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,wikipedia.org
   - DOMAIN-SUFFIX,y2meta.com
