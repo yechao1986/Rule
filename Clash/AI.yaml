@@ -1,4 +1,7 @@
   # > AI
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,microsoftapp.net
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,anthropic.com
