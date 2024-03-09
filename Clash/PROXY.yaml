@@ -37,6 +37,10 @@ payload:
   - DOMAIN-SUFFIX,yckceo.com
   # > YouTube
   - DOMAIN-SUFFIX,g.co
+  # > AI
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,anthropic.com
   # > Pixiv
   - DOMAIN-KEYWORD,pixiv
   - DOMAIN-SUFFIX,pximg.net
