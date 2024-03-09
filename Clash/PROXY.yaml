@@ -1,6 +1,5 @@
 payload:
   # > PROXY
-  - DOMAIN-KEYWORD,bing
   - DOMAIN-KEYWORD,btbtt
   - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,google
