@@ -135,7 +135,6 @@ payload:
   - DOMAIN-SUFFIX,nameless13.com
   - DOMAIN-SUFFIX,ssr.sh
   # > XXX
-  - DOMAIN-SUFFIX,jinjier.art
   - DOMAIN-KEYWORD,fuliba
   - DOMAIN-KEYWORD,hentai
   - DOMAIN-KEYWORD,dmm
@@ -157,3 +156,6 @@ payload:
   - DOMAIN-KEYWORD,getchu
   - DOMAIN-KEYWORD,javdb
   - DOMAIN-KEYWORD,gcolle
+  - DOMAIN-SUFFIX,jinjier.art
+  - DOMAIN-SUFFIX,hl007.net
+  - DOMAIN-SUFFIX,lidois.com
