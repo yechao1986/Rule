@@ -1,9 +1,11 @@
 payload:
   # > AI
+  - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,microsoftapp.net
-  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,openai.com
-  - DOMAIN-SUFFIX,claude.ai
-  - DOMAIN-SUFFIX,anthropic.com
