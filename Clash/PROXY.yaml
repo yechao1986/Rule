@@ -49,6 +49,8 @@ payload:
   - DOMAIN-SUFFIX,ip-api.com
   # > Game
   - DOMAIN-SUFFIX,albiononline.com
+  # > Blog
+  - DOMAIN-SUFFIX,ibeg.eu.org
   # > Software
   - DOMAIN-KEYWORD,macupdater
   - DOMAIN-SUFFIX,apphousekitchen.com
