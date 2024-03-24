@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,apkpure.com
   - DOMAIN-SUFFIX,chaojizhibo.net
   - DOMAIN-SUFFIX,clgclg.com
+  - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,fanmingming.com
   - DOMAIN-SUFFIX,fontawesome.com
   - DOMAIN-SUFFIX,gamer.com.tw
