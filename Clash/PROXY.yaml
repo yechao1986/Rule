@@ -23,6 +23,7 @@ payload:
   - DOMAIN-SUFFIX,gamer.com.tw
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,jb51.net
   - DOMAIN-SUFFIX,lemonsqueezy.com
   - DOMAIN-SUFFIX,masktt.com
   - DOMAIN-SUFFIX,mega.co.nz
