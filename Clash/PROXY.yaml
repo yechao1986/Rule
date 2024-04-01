@@ -54,6 +54,11 @@ payload:
   - DOMAIN-SUFFIX,albiononline.com
   # > Blog
   - DOMAIN-SUFFIX,ibeg.eu.org
+  # > VPN
+  - DOMAIN-SUFFIX,nameless13.com
+  - DOMAIN-SUFFIX,ssr.sh
+  # > Commander One
+  - DOMAIN-SUFFIX,ftp-mac.com
   # > Software
   - DOMAIN-KEYWORD,macupdater
   - DOMAIN-SUFFIX,apphousekitchen.com
@@ -83,64 +88,207 @@ payload:
   - DOMAIN-SUFFIX,vmware.com
   - DOMAIN-SUFFIX,xbarapp.com
   # > AC
+  - DOMAIN-SUFFIX,0a1t.com
+  - DOMAIN-SUFFIX,11dmh.com
+  - DOMAIN-SUFFIX,17fuman.com
+  - DOMAIN-SUFFIX,17kdm.net
   - DOMAIN-SUFFIX,18comic-cool.art
+  - DOMAIN-SUFFIX,18comic-ff7rebirth.club
+  - DOMAIN-SUFFIX,1dmh.com
+  - DOMAIN-SUFFIX,201jl.com
+  - DOMAIN-SUFFIX,23biquge.com
+  - DOMAIN-SUFFIX,2animx.com
+  - DOMAIN-SUFFIX,2kju.com
   - DOMAIN-SUFFIX,2mzx.net
   - DOMAIN-SUFFIX,35mh.com
+  - DOMAIN-SUFFIX,365manga.com
   - DOMAIN-SUFFIX,369manhua.com
+  - DOMAIN-SUFFIX,399bz.com
+  - DOMAIN-SUFFIX,4399dmw.com
   - DOMAIN-SUFFIX,4un.net
   - DOMAIN-SUFFIX,55dmh.com
+  - DOMAIN-SUFFIX,5freed.com
   - DOMAIN-SUFFIX,686mh.com
+  - DOMAIN-SUFFIX,733.so
+  - DOMAIN-SUFFIX,777mh.com
+  - DOMAIN-SUFFIX,7stary.com
+  - DOMAIN-SUFFIX,87mh.com
+  - DOMAIN-SUFFIX,90bole.com
+  - DOMAIN-SUFFIX,92pu.com
   - DOMAIN-SUFFIX,97mhw.com
   - DOMAIN-SUFFIX,99mh1.com
+  - DOMAIN-SUFFIX,99wushu.com
+  - DOMAIN-SUFFIX,9la.la
+  - DOMAIN-SUFFIX,9xxs.cc
+  - DOMAIN-SUFFIX,acgz1.com
+  - DOMAIN-SUFFIX,alameinv.com
+  - DOMAIN-SUFFIX,ammmi.com
+  - DOMAIN-SUFFIX,aymdm.com
+  - DOMAIN-SUFFIX,bainianx.com
   - DOMAIN-SUFFIX,bakamh.com
   - DOMAIN-SUFFIX,bikabika.com
+  - DOMAIN-SUFFIX,biqug.org
+  - DOMAIN-SUFFIX,bnman.net
+  - DOMAIN-SUFFIX,bookcomic.org
+  - DOMAIN-SUFFIX,boylove.gay
   - DOMAIN-SUFFIX,boylove1.mobi
   - DOMAIN-SUFFIX,bq64.cc
+  - DOMAIN-SUFFIX,buka.cn
   - DOMAIN-SUFFIX,bx117.com
+  - DOMAIN-SUFFIX,cartoon18.com
+  - DOMAIN-SUFFIX,cartoonmad.com
+  - DOMAIN-SUFFIX,ccmh16.com
+  - DOMAIN-SUFFIX,ccshwy.com
   - DOMAIN-SUFFIX,colamanga.com
+  - DOMAIN-SUFFIX,comic123.net
+  - DOMAIN-SUFFIX,comicool.cn
+  - DOMAIN-SUFFIX,comicun.com
   - DOMAIN-SUFFIX,cqhijy.com
+  - DOMAIN-SUFFIX,cuiman.com
+  - DOMAIN-SUFFIX,daigege.com
   - DOMAIN-SUFFIX,darpou.com
+  - DOMAIN-SUFFIX,dianlamh.com
+  - DOMAIN-SUFFIX,didamh.com
   - DOMAIN-SUFFIX,dingdangmh.com
   - DOMAIN-SUFFIX,dmhua8.com
   - DOMAIN-SUFFIX,dmzx.com
+  - DOMAIN-SUFFIX,dodomh.com
   - DOMAIN-SUFFIX,dogemanga.com
   - DOMAIN-SUFFIX,dushimh.com
+  - DOMAIN-SUFFIX,dymanhua.com
+  - DOMAIN-SUFFIX,ejujiu.com
+  - DOMAIN-SUFFIX,erocool.cc
+  - DOMAIN-SUFFIX,feimh5.com
+  - DOMAIN-SUFFIX,fengmh.com
+  - DOMAIN-SUFFIX,fktd.com
+  - DOMAIN-SUFFIX,fmgua.com
+  - DOMAIN-SUFFIX,fmmhua.com
+  - DOMAIN-SUFFIX,fumanhua2.com
+  - DOMAIN-SUFFIX,gggkkk666.top
+  - DOMAIN-SUFFIX,g-lens.com
+  - DOMAIN-SUFFIX,godaddy.com
+  - DOMAIN-SUFFIX,godamanga.art
   - DOMAIN-SUFFIX,gougou3.top
   - DOMAIN-SUFFIX,grmanhua.com
   - DOMAIN-SUFFIX,guagua456.com
   - DOMAIN-SUFFIX,guofengmh.com
+  - DOMAIN-SUFFIX,haimaoba.com
+  - DOMAIN-SUFFIX,hanime1.me
   - DOMAIN-SUFFIX,hanman.cyou
   - DOMAIN-SUFFIX,hanmanhot.com
+  - DOMAIN-SUFFIX,hanmanwo.com
+  - DOMAIN-SUFFIX,haohao25.com
   - DOMAIN-SUFFIX,hcs68.com
+  - DOMAIN-SUFFIX,hexieshe.cn
   - DOMAIN-SUFFIX,hi191.com
+  - DOMAIN-SUFFIX,hicomic.net
+  - DOMAIN-SUFFIX,hmwu.cc
+  - DOMAIN-SUFFIX,ikanm8.com
+  - DOMAIN-SUFFIX,ikanwzd.top
+  - DOMAIN-SUFFIX,ilikemanga.com
+  - DOMAIN-SUFFIX,imanhua.in
+  - DOMAIN-SUFFIX,iqhmh.com
+  - DOMAIN-SUFFIX,isekai.ch
+  - DOMAIN-SUFFIX,isekaiscan.com
+  - DOMAIN-SUFFIX,ishangman.com
+  - DOMAIN-SUFFIX,jingdianhanman.com
+  - DOMAIN-SUFFIX,jmapinode.biz
+  - DOMAIN-SUFFIX,jnwtv.com
+  - DOMAIN-SUFFIX,jusebao.co
+  - DOMAIN-SUFFIX,jxmfxs.com
+  - DOMAIN-SUFFIX,kaimanhua.com
+  - DOMAIN-SUFFIX,kanbl.com
+  - DOMAIN-SUFFIX,kanbook.net
+  - DOMAIN-SUFFIX,kanmanhuala.com
+  - DOMAIN-SUFFIX,kimlulu.com
+  - DOMAIN-SUFFIX,kokomh.com
   - DOMAIN-SUFFIX,komiic.com
   - DOMAIN-SUFFIX,krmanhua.com
+  - DOMAIN-SUFFIX,kukuwumh.com
+  - DOMAIN-SUFFIX,kumascans.com
+  - DOMAIN-SUFFIX,leeyegy.com
+  - DOMAIN-SUFFIX,leyuman.com
   - DOMAIN-SUFFIX,linovelib.com
   - DOMAIN-SUFFIX,llkmh.com
+  - DOMAIN-SUFFIX,mangabz.com
+  - DOMAIN-SUFFIX,mangaowl.net
+  - DOMAIN-SUFFIX,mangaraw.to
   - DOMAIN-SUFFIX,mangatoro.com
+  - DOMAIN-SUFFIX,manhua39.com
   - DOMAIN-SUFFIX,manhuaba123.com
   - DOMAIN-SUFFIX,manhuadian.com
+  - DOMAIN-SUFFIX,manhuadq.cn
+  - DOMAIN-SUFFIX,manhuafei.com
+  - DOMAIN-SUFFIX,manhuagui.com
+  - DOMAIN-SUFFIX,manhualv.com
+  - DOMAIN-SUFFIX,manhuama.com
+  - DOMAIN-SUFFIX,manhuaorg.com
+  - DOMAIN-SUFFIX,manhuapu.com
+  - DOMAIN-SUFFIX,manmantai.com
+  - DOMAIN-SUFFIX,maofly.com
+  - DOMAIN-SUFFIX,mh01.net
+  - DOMAIN-SUFFIX,mhgui.com
   - DOMAIN-SUFFIX,mhw1.com
+  - DOMAIN-SUFFIX,mkzcdn.com
+  - DOMAIN-SUFFIX,mm1316.com
+  - DOMAIN-SUFFIX,moetu.club
+  - DOMAIN-SUFFIX,mom7.net
+  - DOMAIN-SUFFIX,momomh.com
+  - DOMAIN-SUFFIX,moquge.com
+  - DOMAIN-SUFFIX,muguamh.com
+  - DOMAIN-SUFFIX,mwappimgs1.cc
+  - DOMAIN-SUFFIX,mxqf.com
+  - DOMAIN-SUFFIX,myreadingmanga.info
   - DOMAIN-SUFFIX,nnhanman.net
+  - DOMAIN-SUFFIX,nnhanman.org
+  - DOMAIN-SUFFIX,pstatic.net
+  - DOMAIN-SUFFIX,qikeman.com
+  - DOMAIN-SUFFIX,qinimg.top
+  - DOMAIN-SUFFIX,qiremanhua.com
+  - DOMAIN-SUFFIX,qiufeng.co
+  - DOMAIN-SUFFIX,qiximh4.com
   - DOMAIN-SUFFIX,quarkmanhua.com
   - DOMAIN-SUFFIX,rawdevart.com
+  - DOMAIN-SUFFIX,rihanmh.cc
+  - DOMAIN-SUFFIX,rouman5.com
   - DOMAIN-SUFFIX,rr8.us
+  - DOMAIN-SUFFIX,saoyao.net
+  - DOMAIN-SUFFIX,sesemanhua.top
   - DOMAIN-SUFFIX,shenmh.top
+  - DOMAIN-SUFFIX,silisi.com
   - DOMAIN-SUFFIX,suixw.com
   - DOMAIN-SUFFIX,toptoon.net
+  - DOMAIN-SUFFIX,toptoon.vip
+  - DOMAIN-SUFFIX,toptoonfree.com
+  - DOMAIN-SUFFIX,tptoon.com
+  - DOMAIN-SUFFIX,umh5.com
+  - DOMAIN-SUFFIX,vomicmh.com
   - DOMAIN-SUFFIX,w13k.com
+  - DOMAIN-SUFFIX,wmhm.net
+  - DOMAIN-SUFFIX,wnacg.com
   - DOMAIN-SUFFIX,wnixk.com
   - DOMAIN-SUFFIX,wulawei.com
+  - DOMAIN-SUFFIX,wuqimh.net
+  - DOMAIN-SUFFIX,wuxiamh.com
   - DOMAIN-SUFFIX,x18mh.com
+  - DOMAIN-SUFFIX,xcxsd.org
+  - DOMAIN-SUFFIX,xf6.net
   - DOMAIN-SUFFIX,xiamh.com
   - DOMAIN-SUFFIX,xiushiba.com
+  - DOMAIN-SUFFIX,xlsmh.com
+  - DOMAIN-SUFFIX,xm124.com
   - DOMAIN-SUFFIX,xmanhua.com
+  - DOMAIN-SUFFIX,xmh124.com
+  - DOMAIN-SUFFIX,xuemh.com
+  - DOMAIN-SUFFIX,xzcstjx.com
   - DOMAIN-SUFFIX,yimmh.com
-  # > Commander One
-  - DOMAIN-SUFFIX,ftp-mac.com
-  # > VPN
-  - DOMAIN-SUFFIX,nameless13.com
-  - DOMAIN-SUFFIX,ssr.sh
+  - DOMAIN-SUFFIX,yiyimanhua.com
+  - DOMAIN-SUFFIX,yizhikan.cn
+  - DOMAIN-SUFFIX,yizhikan.com
+  - DOMAIN-SUFFIX,youmamh.com
+  - DOMAIN-SUFFIX,yxtun.com
+  - DOMAIN-SUFFIX,zsc2.com
+  - DOMAIN-SUFFIX,zzgo827.top
   # > XXX
   - DOMAIN-KEYWORD,fuliba
   - DOMAIN-KEYWORD,hentai
