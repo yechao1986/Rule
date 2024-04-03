@@ -39,6 +39,19 @@ payload:
   - DOMAIN-SUFFIX,wikipedia.org
   - DOMAIN-SUFFIX,y2meta.com
   - DOMAIN-SUFFIX,yckceo.com
+  # > IP信息更新地址
+  - DOMAIN-SUFFIX,ip-api.com
+  # > 腾讯云
+  - DOMAIN-SUFFIX,rumt-zh.com
+  # > 覆写更新地址
+  - DOMAIN-SUFFIX,whatshub.top
+  # > VPN
+  - DOMAIN-SUFFIX,nameless13.com
+  - DOMAIN-SUFFIX,ssr.sh
+  # > Game
+  - DOMAIN-SUFFIX,albiononline.com
+  # > Blog
+  - DOMAIN-SUFFIX,ibeg.eu.org
   # > YouTube
   - DOMAIN-SUFFIX,g.co
   # > Pixiv
@@ -47,17 +60,6 @@ payload:
   # > Reddit
   - DOMAIN-KEYWORD,reddit
   - DOMAIN-SUFFIX,redd.it
-  # > 覆写更新地址
-  - DOMAIN-SUFFIX,whatshub.top
-  # > IP信息更新地址
-  - DOMAIN-SUFFIX,ip-api.com
-  # > Game
-  - DOMAIN-SUFFIX,albiononline.com
-  # > Blog
-  - DOMAIN-SUFFIX,ibeg.eu.org
-  # > VPN
-  - DOMAIN-SUFFIX,nameless13.com
-  - DOMAIN-SUFFIX,ssr.sh
   # > Commander One
   - DOMAIN-SUFFIX,ftp-mac.com
   # > Software
