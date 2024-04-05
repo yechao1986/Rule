@@ -48,6 +48,8 @@ payload:
   # > VPN
   - DOMAIN-SUFFIX,nameless13.com
   - DOMAIN-SUFFIX,ssr.sh
+  # > 削刮
+  - DOMAIN-SUFFIX,themoviedb.org
   # > Game
   - DOMAIN-SUFFIX,albiononline.com
   # > Blog
