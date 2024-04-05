@@ -51,6 +51,7 @@ payload:
   # > 削刮
   - DOMAIN-SUFFIX,omdbapi.com
   - DOMAIN-SUFFIX,themoviedb.org
+  - DOMAIN-SUFFIX,tmdb.org
   # > Game
   - DOMAIN-SUFFIX,albiononline.com
   # > Blog
