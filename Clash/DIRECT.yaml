@@ -22,3 +22,7 @@ payload:
   - DOMAIN-SUFFIX,mihoyo.com
   - DOMAIN-SUFFIX,miyoushe.com
   - DOMAIN-SUFFIX,yuanshen.com
+  # > 远程桌面
+  - DOMAIN-SUFFIX,oray.com
+  - DOMAIN-SUFFIX,todesk.com
+  - DOMAIN-SUFFIX,rustdesk.com
