@@ -41,8 +41,6 @@ payload:
   - DOMAIN-SUFFIX,yckceo.com
   # > IP信息更新地址
   - DOMAIN-SUFFIX,ip-api.com
-  # > 腾讯云
-  - DOMAIN-SUFFIX,rumt-zh.com
   # > 覆写更新地址
   - DOMAIN-SUFFIX,whatshub.top
   # > VPN
