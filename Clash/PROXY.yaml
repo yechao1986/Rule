@@ -46,6 +46,7 @@ payload:
   # > 覆写更新地址
   - DOMAIN-SUFFIX,whatshub.top
   # > VPN
+  - DOMAIN-SUFFIX,duyaoss.com
   - DOMAIN-SUFFIX,nameless13.com
   - DOMAIN-SUFFIX,ssr.sh
   # > 削刮
