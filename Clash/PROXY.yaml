@@ -24,6 +24,7 @@ payload:
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,huggingface.co
+  - DOMAIN-SUFFIX,ipa.store
   - DOMAIN-SUFFIX,jb51.net
   - DOMAIN-SUFFIX,lemonsqueezy.com
   - DOMAIN-SUFFIX,masktt.com
