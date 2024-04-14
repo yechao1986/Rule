@@ -4,13 +4,10 @@ payload:
   - DOMAIN-KEYWORD,docker
   - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,google
-  - DOMAIN-KEYWORD,maying
-  - DOMAIN-KEYWORD,miaona
   - DOMAIN-KEYWORD,rhinoshield
   - DOMAIN-KEYWORD,shopify
   - DOMAIN-KEYWORD,steam
   - DOMAIN-KEYWORD,weibo
-  - DOMAIN-KEYWORD,xsus
   - DOMAIN-KEYWORD,xyz
   - DOMAIN-KEYWORD,xn--
   - DOMAIN-SUFFIX,5ber.com
@@ -45,9 +42,13 @@ payload:
   # > 覆写更新地址
   - DOMAIN-SUFFIX,whatshub.top
   # > VPN
+  - DOMAIN-KEYWORD,maying
+  - DOMAIN-KEYWORD,miaona
+  - DOMAIN-KEYWORD,xsus
   - DOMAIN-SUFFIX,duyaoss.com
   - DOMAIN-SUFFIX,nameless13.com
   - DOMAIN-SUFFIX,ssr.sh
+  - DOMAIN-SUFFIX,wd-gold.com
   # > 削刮
   - DOMAIN-SUFFIX,omdbapi.com
   - DOMAIN-SUFFIX,themoviedb.org
