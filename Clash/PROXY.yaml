@@ -36,6 +36,7 @@ payload:
   - DOMAIN-SUFFIX,t.co
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,wikipedia.org
+  - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,y2meta.com
   - DOMAIN-SUFFIX,yckceo.com
   # > IP信息更新地址
