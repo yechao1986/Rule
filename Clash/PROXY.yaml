@@ -11,6 +11,7 @@ payload:
   - DOMAIN-KEYWORD,xyz
   - DOMAIN-KEYWORD,xn--
   - DOMAIN-SUFFIX,5ber.com
+  - DOMAIN-SUFFIX,9gag.com
   - DOMAIN-SUFFIX,apkpure.com
   - DOMAIN-SUFFIX,chaojizhibo.net
   - DOMAIN-SUFFIX,clgclg.com
