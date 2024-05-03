@@ -58,8 +58,10 @@ payload:
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,tmdb.org
   # > Game
-  - DOMAIN-SUFFIX,gameloft.com
   - DOMAIN-SUFFIX,albiononline.com
+  - DOMAIN-SUFFIX,appsflyersdk.com
+  - DOMAIN-SUFFIX,gameloft.com
+  - DOMAIN-SUFFIX,mlightgames.com
   # > 网安
   - DOMAIN-SUFFIX,cisa.gov
   - DOMAIN-SUFFIX,apache.org
