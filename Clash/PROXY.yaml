@@ -60,8 +60,15 @@ payload:
   # > Game
   - DOMAIN-SUFFIX,albiononline.com
   - DOMAIN-SUFFIX,appsflyersdk.com
+  - DOMAIN-SUFFIX,cloudcell.com
+  - DOMAIN-SUFFIX,ea.com
+  - DOMAIN-SUFFIX,eamobile.com
   - DOMAIN-SUFFIX,gameloft.com
   - DOMAIN-SUFFIX,mlightgames.com
+  - DOMAIN-SUFFIX,soom.la
+  - DOMAIN-SUFFIX,tapjoy.com
+  - DOMAIN-SUFFIX,tnt-ea.com
+  - DOMAIN-SUFFIX,unity3d.com
   # > 网安
   - DOMAIN-SUFFIX,cisa.gov
   - DOMAIN-SUFFIX,apache.org
