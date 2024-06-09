@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,5ber.com
   - DOMAIN-SUFFIX,9cache.com
   - DOMAIN-SUFFIX,9gag.com
+  - DOMAIN-SUFFIX,api.nn.ci
   - DOMAIN-SUFFIX,apkpure.com
   - DOMAIN-SUFFIX,chaojizhibo.net
   - DOMAIN-SUFFIX,clgclg.com
