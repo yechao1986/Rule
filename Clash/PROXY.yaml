@@ -111,6 +111,7 @@ payload:
   - DOMAIN-SUFFIX,staticz.com
   - DOMAIN-SUFFIX,staticz.net
   - DOMAIN-SUFFIX,sublimetext.com
+  - DOMAIN-SUFFIX,termius.com
   - DOMAIN-SUFFIX,thebrowser.company
   - DOMAIN-SUFFIX,titanium-software.fr
   - DOMAIN-SUFFIX,vmware.com
