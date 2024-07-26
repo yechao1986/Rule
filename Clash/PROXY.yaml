@@ -107,6 +107,7 @@ payload:
   - DOMAIN-SUFFIX,notion.so
   - DOMAIN-SUFFIX,obsproject.com
   - DOMAIN-SUFFIX,raindrop.io
+  - DOMAIN-SUFFIX,sagernet.org
   - DOMAIN-SUFFIX,sider.ai
   - DOMAIN-SUFFIX,stash.ws
   - DOMAIN-SUFFIX,staticz.com
