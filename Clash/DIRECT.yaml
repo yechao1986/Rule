@@ -1,13 +1,13 @@
 payload:
   # > DIRECT
   - IP-CIDR6,::/0
+  - DOMAIN-KEYWORD,huawei
+  - DOMAIN-KEYWORD,lenovo
+  - DOMAIN-KEYWORD,nubia
   - DOMAIN-KEYWORD,oppo
   - DOMAIN-KEYWORD,vivo
   - DOMAIN-KEYWORD,xiaomi
-  - DOMAIN-KEYWORD,huawei
   - DOMAIN-KEYWORD,zte
-  - DOMAIN-KEYWORD,nubia
-  - DOMAIN-KEYWORD,lenovo
   - DOMAIN-SUFFIX,adanxing.com
   - DOMAIN-SUFFIX,adoceans.com
   - DOMAIN-SUFFIX,colamanhua.com
