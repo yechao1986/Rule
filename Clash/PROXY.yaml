@@ -74,6 +74,8 @@ payload:
   - DOMAIN-SUFFIX,tapjoy.com
   - DOMAIN-SUFFIX,tnt-ea.com
   - DOMAIN-SUFFIX,unity3d.com
+  - DOMAIN-SUFFIX,urban-rivals.com
+  - DOMAIN-SUFFIX,ur-img.com
   # > 网安
   - DOMAIN-SUFFIX,cisa.gov
   - DOMAIN-SUFFIX,apache.org
