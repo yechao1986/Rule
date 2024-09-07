@@ -124,6 +124,7 @@ payload:
   - DOMAIN-SUFFIX,vmware.com
   - DOMAIN-SUFFIX,xbarapp.com
   # > Comic
+  - DOMAIN-KEYWORD,jmapi
   - DOMAIN-SUFFIX,0373xx.com
   - DOMAIN-SUFFIX,0a1t.com
   - DOMAIN-SUFFIX,11dmh.com
