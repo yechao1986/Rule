@@ -28,7 +28,6 @@ payload:
   - DOMAIN-SUFFIX,ipa.store
   - DOMAIN-SUFFIX,jb51.net
   - DOMAIN-SUFFIX,lemonsqueezy.com
-  - DOMAIN-SUFFIX,line-apps.com
   - DOMAIN-SUFFIX,masktt.com
   - DOMAIN-SUFFIX,mega.co.nz
   - DOMAIN-SUFFIX,mega.io
@@ -92,6 +91,11 @@ payload:
   - DOMAIN-SUFFIX,redd.it
   # > Commander One
   - DOMAIN-SUFFIX,ftp-mac.com
+  # > Line
+  - DOMAIN-SUFFIX,line.me
+  - DOMAIN-SUFFIX,line-apps.com
+  - DOMAIN-SUFFIX,line-scdn.net
+  - DOMAIN-SUFFIX,linecorp.com
   # > Software
   - DOMAIN-KEYWORD,macupdater
   - DOMAIN-KEYWORD,vmos
