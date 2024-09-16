@@ -10,7 +10,7 @@ payload:
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,suno.ai
   # > Bing
-  - DOMAIN-SUFFIX,api.msn.com
+  - DOMAIN-SUFFIX,msn.com
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,bingapis.com
   - DOMAIN-SUFFIX,microsoft.com
