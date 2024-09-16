@@ -26,6 +26,7 @@ payload:
   - DOMAIN-SUFFIX,yechao1986.com
   - DOMAIN-SUFFIX,yechao1986.top
   - DOMAIN-SUFFIX,youku.com
+  # > Bing
   - DOMAIN,cn.bing.com
   # > 米哈游
   - DOMAIN-SUFFIX,mihoyo.com
