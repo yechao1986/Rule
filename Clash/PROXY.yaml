@@ -128,6 +128,7 @@ payload:
   - DOMAIN-SUFFIX,titanium-software.fr
   - DOMAIN-SUFFIX,vmware.com
   - DOMAIN-SUFFIX,xbarapp.com
+  - DOMAIN-SUFFIX,xbext.com
   # > Comic
   - DOMAIN-KEYWORD,jmapi
   - DOMAIN-SUFFIX,0373xx.com
