@@ -40,6 +40,7 @@ payload:
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,sms-activate.org
   - DOMAIN-SUFFIX,t.co
+  - DOMAIN-SUFFIX,three.com.hk
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,wikipedia.org
   - DOMAIN-SUFFIX,x.com
