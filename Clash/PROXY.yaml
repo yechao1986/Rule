@@ -19,7 +19,9 @@ payload:
   - DOMAIN-SUFFIX,chaojizhibo.net
   - DOMAIN-SUFFIX,clgclg.com
   - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,fanmingming.com
+  - DOMAIN-SUFFIX,fastly.net
   - DOMAIN-SUFFIX,fontawesome.com
   - DOMAIN-SUFFIX,gamer.com.tw
   - DOMAIN-SUFFIX,githubusercontent.com
@@ -27,6 +29,7 @@ payload:
   - DOMAIN-SUFFIX,huggingface.co
   - DOMAIN-SUFFIX,ipa.store
   - DOMAIN-SUFFIX,jb51.net
+  - DOMAIN-SUFFIX,last.fm
   - DOMAIN-SUFFIX,lemonsqueezy.com
   - DOMAIN-SUFFIX,limbopro.com
   - DOMAIN-SUFFIX,masktt.com
@@ -39,6 +42,7 @@ payload:
   - DOMAIN-SUFFIX,rjcxb.com
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,sms-activate.org
+  - DOMAIN-SUFFIX,spotify.com
   - DOMAIN-SUFFIX,t.co
   - DOMAIN-SUFFIX,three.com.hk
   - DOMAIN-SUFFIX,v2ex.com
