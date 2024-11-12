@@ -109,6 +109,7 @@ payload:
   - DOMAIN-SUFFIX,arc.net
   - DOMAIN-SUFFIX,betterdisplay.pro
   - DOMAIN-SUFFIX,diffusionbee.com
+  - DOMAIN-SUFFIX,discord.com
   - DOMAIN-SUFFIX,exview.ml
   - DOMAIN-SUFFIX,firefox.com
   - DOMAIN-SUFFIX,gpt4all.io
@@ -266,6 +267,7 @@ payload:
   - DOMAIN-SUFFIX,isekaiscan.com
   - DOMAIN-SUFFIX,ishangman.com
   - DOMAIN-SUFFIX,jingdianhanman.com
+  - DOMAIN-SUFFIX,jm365.work
   - DOMAIN-SUFFIX,jmapinode.biz
   - DOMAIN-SUFFIX,jmcomic.bet
   - DOMAIN-SUFFIX,jmzj.us
