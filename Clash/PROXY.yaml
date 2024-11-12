@@ -136,11 +136,14 @@ payload:
   - DOMAIN-SUFFIX,vmware.com
   - DOMAIN-SUFFIX,xbarapp.com
   - DOMAIN-SUFFIX,xbext.com
-  # > Comic
+  # > 禁漫天堂
   - DOMAIN-KEYWORD,18comic
   - DOMAIN-KEYWORD,jm365
   - DOMAIN-KEYWORD,jmcomic
   - DOMAIN-KEYWORD,jmapi
+  - DOMAIN-SUFFIX,cdnblackmyth.vip
+  - DOMAIN-SUFFIX,cdnxxx-proxy.co
+  # > Comic
   - DOMAIN-SUFFIX,0373xx.com
   - DOMAIN-SUFFIX,0a1t.com
   - DOMAIN-SUFFIX,11dmh.com
@@ -267,7 +270,6 @@ payload:
   - DOMAIN-SUFFIX,isekaiscan.com
   - DOMAIN-SUFFIX,ishangman.com
   - DOMAIN-SUFFIX,jingdianhanman.com
-  - DOMAIN-SUFFIX,jmapinode.biz
   - DOMAIN-SUFFIX,jmzj.us
   - DOMAIN-SUFFIX,jnwtv.com
   - DOMAIN-SUFFIX,jusebao.co
