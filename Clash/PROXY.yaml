@@ -137,15 +137,15 @@ payload:
   - DOMAIN-SUFFIX,xbarapp.com
   - DOMAIN-SUFFIX,xbext.com
   # > Comic
+  - DOMAIN-KEYWORD,18comic
+  - DOMAIN-KEYWORD,jm365
+  - DOMAIN-KEYWORD,jmcomic
   - DOMAIN-KEYWORD,jmapi
   - DOMAIN-SUFFIX,0373xx.com
   - DOMAIN-SUFFIX,0a1t.com
   - DOMAIN-SUFFIX,11dmh.com
   - DOMAIN-SUFFIX,17fuman.com
   - DOMAIN-SUFFIX,17kdm.net
-  - DOMAIN-SUFFIX,18comic-cool.art
-  - DOMAIN-SUFFIX,18comic-ff7rebirth.club
-  - DOMAIN-SUFFIX,18comic.vip
   - DOMAIN-SUFFIX,1dmh.com
   - DOMAIN-SUFFIX,201jl.com
   - DOMAIN-SUFFIX,20mhw.com
@@ -267,9 +267,7 @@ payload:
   - DOMAIN-SUFFIX,isekaiscan.com
   - DOMAIN-SUFFIX,ishangman.com
   - DOMAIN-SUFFIX,jingdianhanman.com
-  - DOMAIN-SUFFIX,jm365.work
   - DOMAIN-SUFFIX,jmapinode.biz
-  - DOMAIN-SUFFIX,jmcomic.bet
   - DOMAIN-SUFFIX,jmzj.us
   - DOMAIN-SUFFIX,jnwtv.com
   - DOMAIN-SUFFIX,jusebao.co
