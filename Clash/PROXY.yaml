@@ -104,14 +104,13 @@ payload:
   - DOMAIN-SUFFIX,linecorp.com
   # > Software
   - DOMAIN-KEYWORD,discord
+  - DOMAIN-KEYWORD,exview
   - DOMAIN-KEYWORD,macupdater
   - DOMAIN-KEYWORD,vmos
   - DOMAIN-SUFFIX,apphousekitchen.com
   - DOMAIN-SUFFIX,arc.net
   - DOMAIN-SUFFIX,betterdisplay.pro
   - DOMAIN-SUFFIX,diffusionbee.com
-  - DOMAIN-SUFFIX,discord.com
-  - DOMAIN-SUFFIX,exview.ml
   - DOMAIN-SUFFIX,firefox.com
   - DOMAIN-SUFFIX,gpt4all.io
   - DOMAIN-SUFFIX,inoreader.com
