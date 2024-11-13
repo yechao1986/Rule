@@ -103,6 +103,7 @@ payload:
   - DOMAIN-SUFFIX,line-scdn.net
   - DOMAIN-SUFFIX,linecorp.com
   # > Software
+  - DOMAIN-KEYWORD,discord
   - DOMAIN-KEYWORD,macupdater
   - DOMAIN-KEYWORD,vmos
   - DOMAIN-SUFFIX,apphousekitchen.com
