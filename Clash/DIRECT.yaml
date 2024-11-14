@@ -44,5 +44,10 @@ payload:
   - DOMAIN-SUFFIX,haomaishou.com
   - DOMAIN-SUFFIX,maoxiongtv.com
   # > TvBoxPro
+  - DOMAIN-SUFFIX,cdnlz22.com
+  - DOMAIN-SUFFIX,cdnlz3.com
+  - DOMAIN-SUFFIX,ffzyread1.com
   - DOMAIN-SUFFIX,qiaoji8.com
+  - DOMAIN-SUFFIX,rrcdnbf3.com
+  - DOMAIN-SUFFIX,ryplay9.com
   
