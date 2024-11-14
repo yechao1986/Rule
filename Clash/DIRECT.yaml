@@ -43,3 +43,6 @@ payload:
   - DOMAIN-SUFFIX,bukatv.com
   - DOMAIN-SUFFIX,haomaishou.com
   - DOMAIN-SUFFIX,maoxiongtv.com
+  # > TvBoxPro
+  - DOMAIN-SUFFIX,qiaoji8.com
+  
