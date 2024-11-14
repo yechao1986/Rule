@@ -41,4 +41,5 @@ payload:
   - DOMAIN-SUFFIX,rumt-zh.com
   # > 即刻电视
   - DOMAIN-SUFFIX,bukatv.com
+  - DOMAIN-SUFFIX,haomaishou.com
   - DOMAIN-SUFFIX,maoxiongtv.com
