@@ -39,3 +39,6 @@ payload:
   - DOMAIN-SUFFIX,rustdesk.com
   # > 腾讯云
   - DOMAIN-SUFFIX,rumt-zh.com
+  # > 即刻电视
+  - DOMAIN-SUFFIX,bukatv.com
+  - DOMAIN-SUFFIX,maoxiongtv.com
