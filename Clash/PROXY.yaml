@@ -417,8 +417,12 @@ payload:
   - DOMAIN-KEYWORD,getchu
   - DOMAIN-KEYWORD,javdb
   - DOMAIN-KEYWORD,gcolle
-  - DOMAIN-SUFFIX,jinjier.art
+  - DOMAIN-SUFFIX,2048.cc
+  - DOMAIN-SUFFIX,2048.tw
+  - DOMAIN-SUFFIX,2048.biz
+  - DOMAIN-SUFFIX,hjd2048.com
   - DOMAIN-SUFFIX,hl007.net
+  - DOMAIN-SUFFIX,jinjier.art
   - DOMAIN-SUFFIX,lidois.com
   - DOMAIN-SUFFIX,91porn.com
   - DOMAIN-SUFFIX,cdn77.org
