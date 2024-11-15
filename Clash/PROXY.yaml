@@ -51,6 +51,7 @@ payload:
   - DOMAIN-SUFFIX,y2meta.com
   - DOMAIN-SUFFIX,yckceo.com
   - DOMAIN,brands.home-assistant.io
+  - DOMAIN,pkgupdate7.synology.com
   # > IP信息更新地址
   - DOMAIN-SUFFIX,ip-api.com
   # > 覆写更新地址
