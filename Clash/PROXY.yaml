@@ -93,9 +93,12 @@ payload:
   - DOMAIN-SUFFIX,ur-img.com
   #   > 卡皮巴拉 Go
   - DOMAIN-SUFFIX,advrpg.com
+  - DOMAIN-SUFFIX,app-measurement.com
   - DOMAIN-SUFFIX,applovin.com
   - DOMAIN-SUFFIX,doubleclick.net
   - DOMAIN-SUFFIX,habby.mobi
+  - DOMAIN-SUFFIX,habbyservice.com
+  - DOMAIN-SUFFIX,moloco.com
   - DOMAIN-SUFFIX,pangle.io
   - DOMAIN-SUFFIX,sgsnssdk.com
   - DOMAIN-SUFFIX,vungle.com
