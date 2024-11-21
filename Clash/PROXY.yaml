@@ -88,8 +88,11 @@ payload:
   - DOMAIN-SUFFIX,ur-img.com
   #   > 卡皮巴拉 Go
   - DOMAIN-SUFFIX,advrpg.com
+  - DOMAIN-SUFFIX,applovin.com
+  - DOMAIN-SUFFIX,doubleclick.net
   - DOMAIN-SUFFIX,habby.mobi
   - DOMAIN-SUFFIX,pangle.io
+  - DOMAIN-SUFFIX,sgsnssdk.com
   - DOMAIN-SUFFIX,vungle.com
   # > 网安
   - DOMAIN-SUFFIX,cisa.gov
