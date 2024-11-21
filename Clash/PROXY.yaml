@@ -71,6 +71,11 @@ payload:
   - DOMAIN-SUFFIX,omdbapi.com
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,tmdb.org
+  # > 网安
+  - DOMAIN-SUFFIX,cisa.gov
+  - DOMAIN-SUFFIX,apache.org
+  # > Blog
+  - DOMAIN-SUFFIX,ibeg.eu.org
   # > Game
   - DOMAIN-SUFFIX,albiononline.com
   - DOMAIN-SUFFIX,appsflyersdk.com
@@ -94,11 +99,6 @@ payload:
   - DOMAIN-SUFFIX,pangle.io
   - DOMAIN-SUFFIX,sgsnssdk.com
   - DOMAIN-SUFFIX,vungle.com
-  # > 网安
-  - DOMAIN-SUFFIX,cisa.gov
-  - DOMAIN-SUFFIX,apache.org
-  # > Blog
-  - DOMAIN-SUFFIX,ibeg.eu.org
   # > Software
   - DOMAIN-KEYWORD,discord
   - DOMAIN-KEYWORD,exview
