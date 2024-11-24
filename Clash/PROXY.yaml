@@ -103,6 +103,8 @@ payload:
   - DOMAIN-SUFFIX,pangle.io
   - DOMAIN-SUFFIX,sgsnssdk.com
   - DOMAIN-SUFFIX,vungle.com
+  #   > 寒霜启示录
+  - DOMAIN-SUFFIX,centurygame.com
   # > Software
   - DOMAIN-KEYWORD,discord
   - DOMAIN-KEYWORD,exview
