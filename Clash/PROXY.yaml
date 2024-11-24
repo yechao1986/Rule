@@ -106,7 +106,7 @@ payload:
   #   > 寒霜启示录
   - DOMAIN-SUFFIX,adjust.com
   - DOMAIN-SUFFIX,centurygame.com
-# - DOMAIN,ma.dun.163.com
+  - DOMAIN,ma.dun.163.com
   # > Software
   - DOMAIN-KEYWORD,discord
   - DOMAIN-KEYWORD,exview
