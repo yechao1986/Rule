@@ -105,6 +105,7 @@ payload:
   - DOMAIN-SUFFIX,vungle.com
   #   > 寒霜启示录
   - DOMAIN-SUFFIX,centurygame.com
+  - DOMAIN,ma.dun.163.com
   # > Software
   - DOMAIN-KEYWORD,discord
   - DOMAIN-KEYWORD,exview
