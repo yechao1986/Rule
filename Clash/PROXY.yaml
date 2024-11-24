@@ -107,6 +107,7 @@ payload:
   - DOMAIN-KEYWORD,centurygame
   - DOMAIN-SUFFIX,adjust.com
   - DOMAIN-SUFFIX,crashlytics.com
+  - DOMAIN-SUFFIX,ilivedata.com
   - DOMAIN,ma.dun.163.com
   # > Software
   - DOMAIN-KEYWORD,discord
