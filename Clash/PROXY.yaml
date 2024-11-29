@@ -410,11 +410,12 @@ payload:
   - DOMAIN-SUFFIX,zzgo827.top
   #   > 禁漫天堂
   - DOMAIN-KEYWORD,18comic
+  - DOMAIN-KEYWORD,cdnblackmyth
+  - DOMAIN-KEYWORD,cdnxxx-proxy
   - DOMAIN-KEYWORD,jm365
   - DOMAIN-KEYWORD,jmapi
+  - DOMAIN-KEYWORD,jmapp
   - DOMAIN-KEYWORD,jmcomic
-  - DOMAIN-SUFFIX,cdnblackmyth.vip
-  - DOMAIN-SUFFIX,cdnxxx-proxy.co
   # > XXX
   - DOMAIN-KEYWORD,fuliba
   - DOMAIN-KEYWORD,hentai
