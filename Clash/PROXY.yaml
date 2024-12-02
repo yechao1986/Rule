@@ -27,6 +27,7 @@ payload:
   - DOMAIN-SUFFIX,gamer.com.tw
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,hassbian.com
   - DOMAIN-SUFFIX,huggingface.co
   - DOMAIN-SUFFIX,ipa.store
   - DOMAIN-SUFFIX,jb51.net
