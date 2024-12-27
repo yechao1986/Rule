@@ -92,6 +92,8 @@ payload:
   - DOMAIN-SUFFIX,unity3d.com
   - DOMAIN-SUFFIX,urban-rivals.com
   - DOMAIN-SUFFIX,ur-img.com
+  #   > Milthm
+  - DOMAIN-SUFFIX,milthm.cn
   #   > 卡皮巴拉 Go
   - DOMAIN-SUFFIX,advrpg.com
   - DOMAIN-SUFFIX,app-measurement.com
