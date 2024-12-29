@@ -1,7 +1,8 @@
 payload:
   # > ADKill
   # - DOMAIN-KEYWORD,adtng
-    - DOMAIN-SUFFIX,palliwaklgz.com
+  #   > 禁漫天堂
+  - DOMAIN-SUFFIX,palliwaklgz.com
   # > Google
   # - DOMAIN-SUFFIX,app-measurement.com
   # > REJECT
