@@ -148,6 +148,8 @@ payload:
   - DOMAIN-SUFFIX,vmware.com
   - DOMAIN-SUFFIX,xbarapp.com
   - DOMAIN-SUFFIX,xbext.com
+  #   > Google Voice
+  - DOMAIN,voice.telephony.goog
   #   > YouTube
   - DOMAIN-SUFFIX,g.co
   #   > Pixiv
