@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,microsoftapp.net
   # > OpenAI
+  # > 20250109
   # > https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Clash/OpenAI/OpenAI.yaml
   - DOMAIN,browser-intake-datadoghq.com
   - DOMAIN,chat.openai.com.cdn.cloudflare.net
