@@ -1,5 +1,7 @@
 payload:
-  # > ChinaIP via_233boy_chinaip
+  # > ChinaIP
+  # > 20250109
+  # > https://github.com/233boy/chinaip/blob/master/chinaip.txt
   - IP-CIDR,1.0.1.0/24
   - IP-CIDR,1.0.2.0/23
   - IP-CIDR,1.0.8.0/21
