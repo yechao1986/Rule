@@ -7,3 +7,6 @@ payload:
   # - DOMAIN-SUFFIX,app-measurement.com
   # > REJECT
   # - DOMAIN-SUFFIX,csi.gstatic.com
+  # > 微信通话
+  # - DOMAIN-SUFFIX,szreport.weixin.qq.com
+  
