@@ -471,10 +471,6 @@ payload:
   - DOMAIN-SUFFIX,dditscdn.com
   - DOMAIN-SUFFIX,youporn.com
   - DOMAIN-SUFFIX,ypncdn.com
-  - DOMAIN-SUFFIX,xview.tv
-  - DOMAIN-SUFFIX,chaturbate.com
-  - DOMAIN-SUFFIX,mmcdn.com
-  - DOMAIN-SUFFIX,highwebmedia.com
   - DOMAIN-SUFFIX,bongacams.xxx
   - DOMAIN-SUFFIX,wlicdn.com
   - DOMAIN-SUFFIX,bcvcdn.com
@@ -487,4 +483,9 @@ payload:
   - DOMAIN-SUFFIX,cams.run
   - DOMAIN-SUFFIX,camsconnexion.com
   - DOMAIN-SUFFIX,streamray.com
+  #   > Xview
+  - DOMAIN-SUFFIX,xview.tv
+  - DOMAIN-SUFFIX,chaturbate.com
+  - DOMAIN-SUFFIX,mmcdn.com
+  - DOMAIN-SUFFIX,highwebmedia.com
   
