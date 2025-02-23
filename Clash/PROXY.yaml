@@ -134,7 +134,6 @@ payload:
   - DOMAIN-SUFFIX,notion-static.com
   - DOMAIN-SUFFIX,notion.so
   - DOMAIN-SUFFIX,obsproject.com
-  - DOMAIN-SUFFIX,pika.art
   - DOMAIN-SUFFIX,raindrop.io
   - DOMAIN-SUFFIX,rustdesk.com
   - DOMAIN-SUFFIX,sagernet.org
@@ -149,6 +148,9 @@ payload:
   - DOMAIN-SUFFIX,vmware.com
   - DOMAIN-SUFFIX,xbarapp.com
   - DOMAIN-SUFFIX,xbext.com
+  #   > Pika
+  - DOMAIN-SUFFIX,pika.art
+  - DOMAIN-SUFFIX,posthog.com
   #   > Google Voice
   - DOMAIN,voice.telephony.goog
   #   > YouTube
