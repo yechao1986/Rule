@@ -134,6 +134,7 @@ payload:
   - DOMAIN-SUFFIX,notion-static.com
   - DOMAIN-SUFFIX,notion.so
   - DOMAIN-SUFFIX,obsproject.com
+  - DOMAIN-SUFFIX,pika.art
   - DOMAIN-SUFFIX,raindrop.io
   - DOMAIN-SUFFIX,rustdesk.com
   - DOMAIN-SUFFIX,sagernet.org
