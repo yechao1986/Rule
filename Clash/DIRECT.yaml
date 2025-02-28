@@ -22,10 +22,12 @@ payload:
   - DOMAIN-SUFFIX,mgtv.com
   - DOMAIN-SUFFIX,mi.com
   - DOMAIN-SUFFIX,miwifi.com
+  - DOMAIN-SUFFIX,nyaa.life
   - DOMAIN-SUFFIX,ipip.net
   - DOMAIN-SUFFIX,qq.com
   - DOMAIN-SUFFIX,yechao1986.com
   - DOMAIN-SUFFIX,yechao1986.top
+  - DOMAIN-SUFFIX,yesuper.com
   - DOMAIN-SUFFIX,youku.com
   # > Bing
   # - DOMAIN,cn.bing.com
