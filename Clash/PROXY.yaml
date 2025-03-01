@@ -54,6 +54,11 @@ payload:
   - DOMAIN-SUFFIX,yckceo.com
   - DOMAIN,brands.home-assistant.io
   - DOMAIN,pkgupdate7.synology.com
+  #   > 油猴
+  - DOMAIN-SUFFIX,greasyfork.org
+  - DOMAIN-SUFFIX,openuserjs.org
+  - DOMAIN-SUFFIX,tampermonkey.net
+  - DOMAIN-SUFFIX,userscript.zone
   # > IP信息更新地址
   - DOMAIN-SUFFIX,ip-api.com
   # > 覆写更新地址
