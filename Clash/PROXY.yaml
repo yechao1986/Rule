@@ -154,6 +154,9 @@ payload:
   - DOMAIN-SUFFIX,vmware.com
   - DOMAIN-SUFFIX,xbarapp.com
   - DOMAIN-SUFFIX,xbext.com
+  #   > MarginNote
+  - DOMAIN-SUFFIX,marginnote.com
+  - DOMAIN-SUFFIX,mixpanel.com
   #   > Pika
   - DOMAIN-SUFFIX,pika.art
   - DOMAIN-SUFFIX,posthog.com
