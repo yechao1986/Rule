@@ -157,6 +157,7 @@ payload:
   #   > MarginNote
   - DOMAIN-SUFFIX,marginnote.com
   - DOMAIN-SUFFIX,mixpanel.com
+  - DOMAIN-SUFFIX,uservoice.com
   #   > Pika
   - DOMAIN-SUFFIX,pika.art
   - DOMAIN-SUFFIX,posthog.com
