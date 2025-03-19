@@ -1,6 +1,6 @@
 payload:
   # > DIRECT
-  - IP-CIDR6,::/0
+# - IP-CIDR6,::/0
   - DOMAIN-KEYWORD,huawei
   - DOMAIN-KEYWORD,lenovo
   - DOMAIN-KEYWORD,nubia
