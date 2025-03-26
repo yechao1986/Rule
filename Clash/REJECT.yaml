@@ -9,4 +9,9 @@ payload:
   # - DOMAIN-SUFFIX,csi.gstatic.com
   # > 微信通话
   # - DOMAIN-SUFFIX,szreport.weixin.qq.com
-  
+  # > 逐光启航广告
+  - DOMAIN-KEYWORD,pangolin-sdk-toutiao
+  - DOMAIN-KEYWORD,pglstatp-toutiao
+  - DOMAIN-SUFFIX,zijieapi.com
+  - DOMAIN-SUFFIX,bytescm.com
+  - DOMAIN-SUFFIX,bytetos.com
