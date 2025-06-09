@@ -100,6 +100,14 @@ payload:
   - DOMAIN-SUFFIX,unity3d.com
   - DOMAIN-SUFFIX,urban-rivals.com
   - DOMAIN-SUFFIX,ur-img.com
+  #   > minecraft
+  - DOMAIN-SUFFIX,playfabapi.com
+  - DOMAIN-SUFFIX,minecraft-services.net
+  - DOMAIN-SUFFIX,mco.cubecraft.net
+  - DOMAIN-SUFFIX,bedrockrt.azure-api.net
+  - DOMAIN-SUFFIX,xboxlive.com
+  - DOMAIN-SUFFIX,self.events.data.microsoft.com
+  - DOMAIN-SUFFIX,vortex.data.microsoft.com
   #   > Milthm
   - DOMAIN-SUFFIX,milthm.cn
   #   > 卡皮巴拉 Go
