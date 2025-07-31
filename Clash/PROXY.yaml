@@ -77,7 +77,8 @@ payload:
   - DOMAIN-SUFFIX,ssr.sh
   - DOMAIN-SUFFIX,wd-gold.com
   #   > AmyTelecom
-  - DOMAIN-SUFFIX,kwk7thgc.com
+  - DOMAIN-KEYWORD,kwk7thgc
+  - IP-CIDR,23.145.248.164/32
   # > 削刮
   - DOMAIN-SUFFIX,omdbapi.com
   - DOMAIN-SUFFIX,themoviedb.org
