@@ -10,11 +10,23 @@ rules:
   - DOMAIN-KEYWORD,szlong.weixin.qq.com,REJECT
   - DOMAIN-KEYWORD,hklong.weixin.qq.com,REJECT
 
-  # 微信通话常见 UDP 端口（STUN/音视频流）
-  - DST-PORT,3478-3481,UDP,REJECT
-  - DST-PORT,5000-5200,UDP,REJECT
-  - DST-PORT,8000-8200,UDP,REJECT
-  - DST-PORT,10000-65000,UDP,REJECT
+  # 微信通话 UDP 端口（常见）
+  - DST-PORT,3478,UDP,REJECT
+  - DST-PORT,3479,UDP,REJECT
+  - DST-PORT,3480,UDP,REJECT
+  - DST-PORT,3481,UDP,REJECT
+  - DST-PORT,5000,UDP,REJECT
+  - DST-PORT,5001,UDP,REJECT
+  - DST-PORT,8000,UDP,REJECT
+  - DST-PORT,8001,UDP,REJECT
+
+  # 大范围拦截（语音/视频常见端口）
+  - DST-PORT,10000,UDP,REJECT
+  - DST-PORT,20000,UDP,REJECT
+  - DST-PORT,30000,UDP,REJECT
+  - DST-PORT,40000,UDP,REJECT
+  - DST-PORT,50000,UDP,REJECT
+  - DST-PORT,60000,UDP,REJECT
 
   # 保证聊天功能
   - DOMAIN-SUFFIX,weixin.qq.com,DIRECT
@@ -22,5 +34,4 @@ rules:
   - DOMAIN-SUFFIX,qq.com,DIRECT
 
 url_rewrites:
-  # 拦截通话信令的 URL
   - ^https?:\/\/(short|long)\.weixin\.qq\.com\/.* - reject
