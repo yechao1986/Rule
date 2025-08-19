@@ -29,6 +29,6 @@ payload:
     - DOMAIN-SUFFIX,short.weixin.qq.com
     - DOMAIN-SUFFIX,long.weixin.qq.com
     - PROCESS-NAME,com.tencent.mm,udp
-    - PROCESS-NAME,com.tencent.mm,DROP,udp
+  # - PROCESS-NAME,com.tencent.mm,DROP,udp
     - PROCESS-NAME,com.tencent.xin,udp
-    - PROCESS-NAME,com.tencent.xin,DROP,udp
+  # - PROCESS-NAME,com.tencent.xin,DROP,udp
