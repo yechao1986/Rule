@@ -1,0 +1,20 @@
+name: "微信通话屏蔽（仅信令）"
+desc: "阻止微信语音/视频通话的拨入与拨出信令，保留文字、图片和语音消息功能。"
+
+rules:
+  # 微信通话信令（含地区分流）
+  - DOMAIN-KEYWORD,short.weixin.qq.com,REJECT
+  - DOMAIN-KEYWORD,long.weixin.qq.com,REJECT
+  - DOMAIN-KEYWORD,szshort.weixin.qq.com,REJECT
+  - DOMAIN-KEYWORD,hkshort.weixin.qq.com,REJECT
+  - DOMAIN-KEYWORD,szlong.weixin.qq.com,REJECT
+  - DOMAIN-KEYWORD,hklong.weixin.qq.com,REJECT
+
+  # 保证聊天功能
+  - DOMAIN-SUFFIX,weixin.qq.com,DIRECT
+  - DOMAIN-SUFFIX,wx.qq.com,DIRECT
+  - DOMAIN-SUFFIX,qq.com,DIRECT
+
+url_rewrites:
+  # 拦截通话信令的 URL
+  - ^https?:\/\/(short|long)\.weixin\.qq\.com\/.* - reject
