@@ -1,11 +1,8 @@
 payload:
   # ========================
-  # 微信通话屏蔽规则 (Android + iOS)
+  # 微信通话屏蔽规则（全平台通用）
   # ========================
-  # 提示：
-  #  - 只屏蔽信令：别人打你不会收到来电提示，等于“静音拒绝”
-  #  - 只屏蔽 UDP：你能收到来电提示，但语音/视频无法接通
-  #  - 全屏蔽：彻底禁用微信语音/视频通话
+  # 只提供匹配条件，不指定动作
   # ========================
 
   # ------------------------
@@ -15,20 +12,32 @@ payload:
   # - DOMAIN-SUFFIX,long.weixin.qq.com
 
   # ------------------------
-  # ② 只屏蔽 UDP (Android + iOS 微信 App)
+  # ② 只屏蔽 UDP
   # ------------------------
-  # - PROCESS-NAME,com.tencent.mm,udp        # Android 微信
-  # - PROCESS-NAME,com.tencent.mm,DROP,udp
-  # - PROCESS-NAME,com.tencent.xin,udp       # iOS 微信
-  # - PROCESS-NAME,com.tencent.xin,DROP,udp
+  # Android
+  # - PROCESS-NAME,com.tencent.mm,udp
+
+  # iOS
+  # - PROCESS-NAME,com.tencent.xin,udp
+
+  # Windows
+  # - PROCESS-NAME,wechat.exe,udp
+
+  # macOS
+  # - PROCESS-NAME,WeChat.app,udp
+
+  # Linux (Wine/Deepin)
+  # - PROCESS-NAME,wechat,udp
+  # - PROCESS-NAME,WeChat,udp
 
   # ------------------------
-  # ③ 全屏蔽 (信令 + UDP)
-  #    → 完全禁用微信语音/视频通话
+  # ③ 全屏蔽（信令 + UDP）
   # ------------------------
     - DOMAIN-SUFFIX,short.weixin.qq.com
     - DOMAIN-SUFFIX,long.weixin.qq.com
     - PROCESS-NAME,com.tencent.mm,udp
-  # - PROCESS-NAME,com.tencent.mm,DROP,udp
     - PROCESS-NAME,com.tencent.xin,udp
-  # - PROCESS-NAME,com.tencent.xin,DROP,udp
+    - PROCESS-NAME,wechat.exe,udp
+    - PROCESS-NAME,WeChat.app,udp
+    - PROCESS-NAME,wechat,udp
+    - PROCESS-NAME,WeChat,udp
