@@ -1,0 +1,8 @@
+# 微信语音/视频屏蔽覆写规则
+name: "微信通话屏蔽"
+description: "屏蔽别人拨打你的微信语音和视频通话，但保持消息正常收发"
+rules:
+  - DOMAIN-KEYWORD,voip.weixin.qq.com,REJECT
+  - DOMAIN-KEYWORD,weixin.qq.com,REJECT
+  - IP-CIDR,203.205.151.0/24,REJECT,no-resolve
+  - IP-CIDR,203.205.233.0/24,REJECT,no-resolve
