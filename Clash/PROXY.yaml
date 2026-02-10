@@ -102,7 +102,10 @@ payload:
   - DOMAIN-SUFFIX,tnt-ea.com
   - DOMAIN-SUFFIX,ubi.com
   - DOMAIN-SUFFIX,ubisoft.com
+  - DOMAIN-SUFFIX,ubisoftconnect.com
   - DOMAIN-SUFFIX,unity3d.com
+  - DOMAIN-SUFFIX,uplay.com
+  - DOMAIN-SUFFIX,uplayconnect.com
   - DOMAIN-SUFFIX,urban-rivals.com
   - DOMAIN-SUFFIX,ur-img.com
   #   > minecraft
