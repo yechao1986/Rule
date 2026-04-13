@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,api.nn.ci
   - DOMAIN-SUFFIX,apkpure.com
   - DOMAIN-SUFFIX,bilibili.tv
+  - DOMAIN-SUFFIX,bstarstatic.com
   - DOMAIN-SUFFIX,chaojizhibo.net
   - DOMAIN-SUFFIX,clgclg.com
   - DOMAIN-SUFFIX,cloudflare.com
