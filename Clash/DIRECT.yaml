@@ -29,6 +29,8 @@ payload:
   - DOMAIN-SUFFIX,yechao1986.top
   - DOMAIN-SUFFIX,yesuper.com
   - DOMAIN-SUFFIX,youku.com
+  # > Apple Weather
+  - DOMAIN,weatherkit.apple.com
   # > Bing
   # - DOMAIN,cn.bing.com
   # > 米哈游
