@@ -30,6 +30,7 @@ payload:
   - DOMAIN-SUFFIX,yesuper.com
   - DOMAIN-SUFFIX,youku.com
   # > Apple Weather
+  - DOMAIN,map2.apple.com
   - DOMAIN,weatherkit.apple.com
   # > Bing
   # - DOMAIN,cn.bing.com
