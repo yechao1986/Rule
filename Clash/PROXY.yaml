@@ -1,4 +1,6 @@
 payload:
+  # > Local
+  - DOMAIN-SUFFIX,yesuper.top
   # > PROXY
   - DOMAIN-KEYWORD,btbtt
   - DOMAIN-KEYWORD,docker
