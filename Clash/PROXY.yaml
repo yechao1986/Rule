@@ -152,6 +152,8 @@ payload:
   - DOMAIN-SUFFIX,corecode.io
   - DOMAIN-SUFFIX,diffusionbee.com
   - DOMAIN-SUFFIX,firefox.com
+  - DOMAIN-SUFFIX,follow.is
+  - DOMAIN-SUFFIX,folo.is
   - DOMAIN-SUFFIX,gpt4all.io
   - DOMAIN-SUFFIX,inoreader.com
   - DOMAIN-SUFFIX,line.naver.jp
